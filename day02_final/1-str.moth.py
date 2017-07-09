@@ -1,5 +1,6 @@
 # Author: ray.zhang
 
+#str  字符串  不可变数据类型
 #主要掌握的方法
 #strip用法：   语法：strip(self, chars=None):
 name = input("what's your name:").strip()   #移除两边空格

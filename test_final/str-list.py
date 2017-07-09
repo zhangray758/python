@@ -25,8 +25,8 @@ for i in range(5):    #打印每个数字
 for i in range(0,5,2):    #每隔2 打印个数字，结果包含0.
     print(i)
 
-# numbers = list(range(5))     #py3这么生成列表有问题。
-# print(numbers)
+#numbers = list(range(5))    #py3这么生成列表有问题。
+#print(numbers)
 
 print (range(20) ==range(0,20))    #两个是一样的
 True
