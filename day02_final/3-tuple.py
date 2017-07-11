@@ -5,6 +5,8 @@
 fruits=('apple','orange','banane','pear','orange')      #定义tuple
 print(type(fruits))
 
+fruits.add('apple')
+
 print(fruits[1:4:2])    #切片后 也为元组
 
 print('pear' in fruits)   #成员
