@@ -91,6 +91,7 @@ print(user.isalnum())        #字符串由字母和数字组成
 print(user.isalpha())        #字符串只由字母组成
 
 #其他方法：
+user.isspace()        #判断空格
 
 
 

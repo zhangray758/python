@@ -26,3 +26,5 @@ l = ['a','b',1,'a','a']
 s = set(l)
 l1 = list(s)
 print(l1)
+
+
