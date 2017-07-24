@@ -1,0 +1,8 @@
+1、提示用户输入sql语句信息
+2、判断用户输入信息后进行执行阶段：
+3、分4种情况为： select insert update delete
+4、根据用户输入提取对应语句方法 调用对应的函数执行操作，
+5、返回结果。
+
+博客地址：
+http://www.cnblogs.com/zhangray/p/7215983.html
